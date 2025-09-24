@@ -1,6 +1,9 @@
-# Sample Images Collection
+# Sample Images Gallery
 
-This repo contains 100 sample images that you can use for web design, testing, learning or fun purposes.
+A collection of 100 sample images.
+
+Check out the **full interactive gallery** here:  
+[View Gallery](https://anilkumar2681.github.io/sample-images/)
 
 ## How to Use
 
