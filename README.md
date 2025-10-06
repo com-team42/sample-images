@@ -7,7 +7,7 @@ Check out the **full interactive gallery** here:
 
 ## How to Use
 
-Each image has a link structure like https://anilkumar2681.github.io/sample-images/test/photos/n.jpg Here, n is a number between 1 and 100. You can change the n value in the link to view the image you want.
+Each image has a link structure like https://com-team42.github.io/sample-images/test/photos/n.jpg Here, n is a number between 1 and 100. You can change the n value in the link to view the image you want.
 
 For example, if you click on the link https://com-team42.github.io/sample-images/test/photos/86.jpg, you will see the following image:
 
